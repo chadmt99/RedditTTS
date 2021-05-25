@@ -1,0 +1,11 @@
+{
+  "config": [
+    {
+      "url": "https://old.reddit.com/r/ProRevenge/comments/g3azoc/height_approved/",
+      "text_font": "Verdana.ttf",
+      "title_font": "Verdana Bold.ttf",
+      "rate_delta": -10,
+      "include_intro": true
+    }
+  ]
+}

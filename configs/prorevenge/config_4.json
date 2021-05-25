@@ -1,0 +1,11 @@
+{
+  "config": [
+    {
+      "url": "https://old.reddit.com/r/ProRevenge/comments/cvb3b6/coworker_tried_to_get_me_fired_over_breast/",
+      "text_font": "Verdana.ttf",
+      "title_font": "Verdana Bold.ttf",
+      "rate_delta": -10,
+      "include_intro": true
+    }
+  ]
+}
